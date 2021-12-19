@@ -9,5 +9,15 @@
 
 > Ссылка на google colab ноутбук №1: https://colab.research.google.com/drive/13AibDa7DeKF_minCx4-gpYGOeqjC7h4c?usp=sharing
 
-> Ссылка на google colab ноутбук №2:
-> 
+> Ссылка на google colab ноутбук №2: https://colab.research.google.com/drive/1CCmegeo0jEV-ZW5_18UFy4BmMnuZihC8?usp=sharing
+
+# Итоговая статистика по домашнему заданию:
+> Сколько было предсказано генов всего -  3570
+
+> Сколько из них удалось аннотировать с помощью сравнения с бактерией MIL-1 - 3281
+ 
+> Сколько из них удалось аннотировать с помощью БД SwissProt - 52
+
+> Какое кол-во белков остались без аннотации функции (с помощью MIL-1) - 289
+
+> Какое кол-во белков остались без аннотации функции (с помощью БД SwissProt) - 237
